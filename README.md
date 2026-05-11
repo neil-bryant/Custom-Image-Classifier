@@ -1,6 +1,6 @@
 Custom-Image-Classifier
 
-Google Collab
+Google Collab:
 https://colab.research.google.com/drive/14lg7TLGnOf-R2d3t32tDmgTg4UX6YbSS?usp=sharing
 
 https://drive.google.com/drive/folders/1fz8Q_8FbA6DLB_MX6TLE2_w4T-x489TN?usp=sharing
